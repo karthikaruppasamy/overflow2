@@ -1,0 +1,83 @@
+*{
+	margin:0;
+	padding:0;
+}
+.container{
+	padding:25px;
+	width:80%;
+	margin:50px;
+	display:flex;
+	border:2px solid black;
+	border-radius:5px;
+	position:relative;
+	
+}
+.flex-container{
+	display:flex;
+	overflow:hidden;
+	border-radius:10px;
+	padding:15px 20px;
+}
+/* .flex a{ */
+	/* border-radius:10px ; */
+/* } */
+.btn1{
+	background-color:red;
+	padding:15px;
+}
+.btn5{
+	background-color:yellow;
+	padding:15px;
+}
+.btn3{
+	background-color:green;
+	padding:15px;
+}
+
+
+
+/* section-2 start */
+.button{
+	background-color:#0984e3;
+	color:white;
+	position:relative;
+	padding:15px 28px;
+	border-radius:5px;
+	
+}
+.btn2{
+	position:absolute;
+	background-color:red;
+	color:white;
+	border-radius:25px;
+	border:1px solid ;
+	top:16px;
+	left:95px;
+padding-left:14px;
+padding-right:12px;
+}
+
+/* section-3 start */
+.button1{
+	background-color:#0984e3;
+	color:white;
+	/* top:-8px; */
+	/* left:76px; */
+	padding:15px 28px;
+	position:relative;
+	border-radius:5px;
+
+	
+}
+.btn6{
+	position:absolute;
+	background-color:red;
+	border-radius:50%;
+	top:-21px;
+	left:-61px;
+	height:15px;
+	margin-top:42px;
+	margin-left:175px;
+	width:15px;
+	/* padding:5px 2px; */
+	}
